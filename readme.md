@@ -1,0 +1,3 @@
+# Nordic DevOps Foundation
+
+Or organization, I don't know which one yet...
